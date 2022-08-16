@@ -1,3 +1,3 @@
-module github.com/kurtisvg/kvg-proxy
+module github.com/kurtisvg/kvg-new-proxy
 
 go 1.17
